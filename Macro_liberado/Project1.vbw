@@ -1,0 +1,12 @@
+Form1 = 50, 50, 836, 501, C, 25, 25, 812, 476, C
+Globals = 75, 75, 862, 526, C
+Keyboard_Events = 150, 150, 923, 601, C
+EnviarMsg_Mod = 50, 50, 837, 501, C
+registros = 150, 150, 921, 601, C
+CRC = 123, 201, 1045, 652, C
+lerininini = 0, 0, 0, 0, C
+Download = 0, 0, 0, 0, C
+extrair = 200, 200, 968, 651, C
+jcbutton = 0, 0, 0, 0, C, 25, 25, 905, 476, C
+Inicio = 175, 175, 1097, 626, , 25, 25, 947, 476, C
+Progressbar_user = 50, 50, 932, 501, C, 175, 175, 1057, 626, C

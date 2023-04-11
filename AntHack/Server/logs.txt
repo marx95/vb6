@@ -1,0 +1,60 @@
+
+[07/08/2012 01:11:24] Iniciando servidor AntiHack
+[07/08/2012 01:11:24] O usuario será NÃO banido ao detectar Hack!
+[07/08/2012 01:11:24] Atenção: A CRC do Main.exe é 0!
+[07/08/2012 01:11:24] Carregado 2 hacks parciais!
+[07/08/2012 01:11:24] Conectado no MSSQL (10.10.10.10:1433) - MuOnline
+[07/08/2012 01:11:24] Conectado no MSSQL (10.10.10.10:1433) - MuJB
+[07/08/2012 01:11:24] Servidor Anti-Hack Online
+
+[07/08/2012 01:11:25] Iniciando servidor AntiHack
+[07/08/2012 01:11:25] O usuario será NÃO banido ao detectar Hack!
+[07/08/2012 01:11:26] Atenção: A CRC do Main.exe é 0!
+[07/08/2012 01:11:26] Carregado 2 hacks parciais!
+[07/08/2012 01:11:26] Conectado no MSSQL (10.10.10.10:1433) - MuOnline
+[07/08/2012 01:11:26] Conectado no MSSQL (10.10.10.10:1433) - MuJB
+[07/08/2012 01:11:26] Servidor Anti-Hack Online
+
+[07/08/2012 01:11:27] Iniciando servidor AntiHack
+[07/08/2012 01:11:27] O usuario será NÃO banido ao detectar Hack!
+[07/08/2012 01:11:27] Atenção: A CRC do Main.exe é 0!
+[07/08/2012 01:11:27] Carregado 2 hacks parciais!
+[07/08/2012 01:11:27] Conectado no MSSQL (10.10.10.10:1433) - MuOnline
+[07/08/2012 01:11:27] Conectado no MSSQL (10.10.10.10:1433) - MuJB
+[07/08/2012 01:11:27] Servidor Anti-Hack Online
+
+[07/08/2012 01:14:48] >> [Iniciando servidor AntiHack] <<
+[07/08/2012 01:14:48] O usuario será NÃO banido ao detectar Hack!
+[07/08/2012 01:14:48] Atenção: A CRC do Main.exe é 0!
+[07/08/2012 01:14:48] Carregado 2 hacks parciais!
+[07/08/2012 01:14:48] Conectado no MSSQL (10.10.10.10:1433) - MuOnline
+[07/08/2012 01:14:48] Conectado no MSSQL (10.10.10.10:1433) - MuJB
+[07/08/2012 01:14:48] Servidor Anti-Hack Online
+
+
+
+[09/10/2012 17:36:07] >> [Iniciando servidor AntiHack] <<
+[09/10/2012 17:36:07] O usuario será NÃO banido ao detectar Hack!
+[09/10/2012 17:36:07] Atenção: A CRC do Main.exe é 0!
+[09/10/2012 17:36:07] Carregado 2 hacks parciais!
+[09/10/2012 17:36:07] Falha ao conectar no MSSQL (10.10.10.10:1433) - MuOnline
+[09/10/2012 17:36:07] Falha ao conectar no MSSQL (10.10.10.10:1433) - MuJB
+[09/10/2012 17:36:07] Servidor Anti-Hack Online
+
+[09/10/2012 17:41:13] >> [Iniciando servidor AntiHack] <<
+[09/10/2012 17:41:13] O usuario será NÃO banido ao detectar Hack!
+[09/10/2012 17:41:13] Atenção: A CRC do Main.exe é 0!
+[09/10/2012 17:41:13] Carregado 2 hacks parciais!
+[09/10/2012 17:41:13] Falha ao conectar no MSSQL (10.10.10.10:1433) - MuOnline
+[09/10/2012 17:41:13] Falha ao conectar no MSSQL (10.10.10.10:1433) - MuJB
+[09/10/2012 17:41:13] Servidor Anti-Hack Online
+[09/10/2012 17:41:13] Manutenção Online - Conexão travada!
+[09/10/2012 17:41:14] Manutenção Offline - Conexão liberada!
+
+[09/10/2012 17:41:15] >> [Iniciando servidor AntiHack] <<
+[09/10/2012 17:41:15] O usuario será NÃO banido ao detectar Hack!
+[09/10/2012 17:41:15] Atenção: A CRC do Main.exe é 0!
+[09/10/2012 17:41:15] Carregado 2 hacks parciais!
+[09/10/2012 17:41:15] Falha ao conectar no MSSQL (10.10.10.10:1433) - MuOnline
+[09/10/2012 17:41:15] Falha ao conectar no MSSQL (10.10.10.10:1433) - MuJB
+[09/10/2012 17:41:15] Servidor Anti-Hack Online

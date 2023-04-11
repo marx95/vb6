@@ -1,0 +1,142 @@
+<style type="text/css">
+<!--
+body {
+	margin-left: 15px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	background-color: #FFFFFF;
+}
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000000;
+}
+div{
+	border:1px solid #990000;
+	padding: 5px;
+	font-size: 12px;
+	width: 50%;
+	background-color: #D0E9FD
+}
+.div h3{
+	font-size: 20px;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	width: 50%;
+}
+.style1 {
+	color: #FF0000;
+	font-weight: bold;
+	font-style: italic;
+}
+h1{
+	color: #990000;
+	font-size: 20px;
+	width: 50%;
+	text-align: center;
+}
+a{
+text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+}
+-->
+</style>
+<h1>MUNOVUS - NOVO SERVER DE MUONLINE</h1>
+  <div align="center"><strong>Crie sua conta e comece com 3 dias de VIP!!!!!!<br> 
+    NOVO SERVER ACUMULATIVO</strong></div>
+<br>
+<div><h3>Informações:</h3>
+ # SITE:<a href="http://munovus.net" target="_blank" class="style1"> http://munovus.net</a><br />
+ # Versão:		1.04J Season 3<br />
+ # Experiencia:		3.500x<br />
+ # Horario:		24Horas<br />
+ # BugBless:		Desligado (/zen on)<br />
+ # Level Maximo:	400<br />
+ # Criar Guild:		200<br />
+ # Status Máximo:	64.000<br />
+ # Comece com 3 Dias de VIP<br />
+ <span class="style1">#  [ ITENS ANCIENT E EXCELENTES NO MESMO ITEM ]</span><br />
+</div>
+<br />
+<div>
+<h3>Tipo de Reset</h3>
+ # <span class="style1">Acumulativo</span><br />
+ # Reset Level Free:	400<br />
+ # Reset Level Vip:	350<br />
+ # Com Npc de Reset em Lorencia<br />
+ # Use /reset	(Somente VIP)<br />
+</div>
+<br />
+<div>
+<h3>Sistema de Drop Customizado:</h3>
+ # Drop de Itens Normais:		50%<br />
+ # Drop de Itens com Luck:		20%<br />
+ # Drop de Itens com Skill:		20%	<br />	
+ # Drop de Joias, Penas e outros:	15%<br />
+ # Drop de Itens Excelentes:		10%<br />
+ # Drop de Zen:				0% (Desativado, use /zen)<br />
+ # Pena, Crest of Monarch e Joias dropando Normal<br />
+</div>
+<br />
+<div>
+<h3>Rates da Chaos Machine (Todos testados e funcionando)</h3>
+ # +7 a +9:		100%<br />
+ # +10:			94%<br />
+ # +11:			90%<br />
+ # +12:			86%<br />
+ # +13:			92%<br />
+ # Sucesso Geral:	100%<br />
+</div>
+<br />
+<div>
+ # Criar Item Chaos:	90%
+ # Criar Asa LVL1:	90%<br />
+ # Criar Asa LVL2:	90%<br />
+ # Criar Asa LVL3:	90%<br />
+ # Criar Capa DL:	90%<br />
+</div>
+<br />
+<div>
+<h3>Eventos</h3>
+ # Golden Dragon<br />
+ # Devil Square<br />
+ # Blood Castle		< Premio: Box of Kundun +5<br />
+ # Chaos Castle<br />
+ # White Wizard<br />
+ # Kalima Kundun<br />
+ # Castle Siege<br />
+ # Red Dragon<br />
+</div>
+<br />
+<div>
+<h3>Comandos</h3>
+    <strong>/post MSG</strong>		Envia mensagem para todo o servidor<br />
+    <strong>/for		X </strong>Adiciona pontos em Força<br />
+    <strong>/agi		X </strong>Adiciona pontos em Agilidade<br />
+    <strong>/vit		X </strong>Adiciona pontos em Vitalidade<br />
+    <strong>/ene		X </strong>Adiciona pontos em Energia<br />
+    <strong>/com		X </strong>Adiciona pontos em Comando<br />
+    <strong>/limparpk</strong>		Limpa o pk<br />
+    <strong>/guildwar </strong>Inicia guerra entre guildas<br />
+    <strong>/re on/off </strong>Ativa ou desativa pedidos de party<br />
+    <strong>/soccer</strong>		Inicia partida de futebol<br />
+    <strong>/bau </strong>Muda de bau - Veja descrição dentro do jogo<br />
+    <strong>/dpontos</strong>		Desbugar pontos<br />
+    <strong>/resetar</strong>		Reseta o personagem - Somente VIP<br />
+    <strong>/zen </strong>Dá zen ao personagem<br />
+    <strong>/info</strong>		Mostra informações<br />
+    <strong>/ajuda</strong>		Algumas dicas<br />
+    <strong>/server</strong>		Vai para lista de servers<br />
+    <strong>/char </strong>Vai para seleção de personagem<br />
+    <strong>/sair </strong>Sai do jogo<br />
+    <strong>/evo </strong>Evolui o personagem para 3ª Classe<br />
+    <strong>/casar</strong>		Envia o pedido de casamento ao personagem<br />
+    <strong>/aceito</strong>		Aceita o pedido de casamento<br />
+    <strong>/naoaceito</strong>		Rejeita o pedido de casamento<br />
+    <strong>/divorcio</strong>		Pede Divorcio<br />
+    <strong>/classe X</strong>        Muda para a classe<br>
+</div>
+<h1><a href="http://munovus.net" target="_blank" class="style1"> http://munovus.net</a></h1>

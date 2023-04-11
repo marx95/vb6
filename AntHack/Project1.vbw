@@ -1,0 +1,11 @@
+Main = 75, 75, 947, 509, , 25, 25, 897, 528, C
+Globals = 75, 75, 947, 509, 
+HackEncontradoForm = 17, 40, 889, 471, C, -19, 103, 853, 537, C
+Registros = 100, 100, 972, 531, Z
+CRC = 75, 75, 967, 526, C
+PegaJanelas = -23, 127, 869, 578, 
+SystemTray = 50, 50, 785, 501, C
+Progressbar_user = 0, 0, 0, 0, C, 50, 50, 863, 501, C
+jcbutton = 50, 50, 954, 399, C, 200, 200, 1013, 651, C
+OtmizaProcesso = 0, 0, 786, 451, 
+ModProcessos = 75, 75, 964, 526, 

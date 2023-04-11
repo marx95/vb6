@@ -1,0 +1,11 @@
+[History]
+1=#P0#=mb	#P1#=EnviaInfosDoPersonagem	#P2#=Project1/Pacotes/EnviaInfosDoPersonagem	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120514155755	#P7#=0	#P8#=95	.
+2=#P0#=mb	#P1#=Form_Resize	#P2#=Project1/Server/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120514141726	#P7#=0	#P8#=4	.
+3=#P0#=mb	#P1#=Command2_Click	#P2#=Project1/Administrar_Jogadores/Command2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120514141404	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=AddLog	#P2#=Project1/Funçoes/AddLog	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120514144025	#P7#=0	#P8#=5	.
+5=#P0#=mb	#P1#=Sock_DataArrival	#P2#=Project1/Server/Sock_DataArrival	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120514140916	#P7#=0	#P8#=24	.
+6=#P0#=mb	#P1#=Sock_ConnectionRequest	#P2#=Project1/Server/Sock_ConnectionRequest	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120514140536	#P7#=0	#P8#=11	.
+7=#P0#=mb	#P1#=EnviaListadDePersonagens	#P2#=Project1/Pacotes/EnviaListadDePersonagens	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120514140253	#P7#=0	#P8#=70	.
+8=#P0#=mb	#P1#=PacoteLogin	#P2#=Project1/Pacotes/PacoteLogin	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120514135046	#P7#=0	#P8#=0	.
+9=#P0#=mb	#P1#=Atualizador_Timer	#P2#=Project1/Server/Atualizador_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120514134701	#P7#=0	#P8#=0	.
+10=#P0#=mb	#P1#=Form_load	#P2#=Project1/Server/Form_load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120514132935	#P7#=0	#P8#=1	.

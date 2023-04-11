@@ -1,0 +1,108 @@
+
+If Pausado = 0 Then
+If Divulgando = 1 Then
+If InStr(1, source.Text, "Digite o texto conforme mostrado na caixa a seguir:") Then
+Timer1.Enabled = False
+captcha.Show
+End If
+
+If InStr(1, source.Text, "O texto desta mensagem foi usado há pouquíssimo tempo. Use outro texto na sua postagem") Then
+ID_Post = ID_Post * 10
+End If
+
+If InStr(1, source.Text, "assunto diferente") Then
+Call EnviaMSG
+End If
+
+If InStr(1, source.Text, "Mensagem:") Then
+Call EnviaMSG
+End If
+
+If InStr(1, source.Text, "responder") Then
+
+LastID = LastID + 1
+Dim IDX As String
+IDX = LastID
+WriteINI App.Path & "/links.ini", "links", "ultimo", IDX
+WriteINI App.Path & "/links.ini", IDX, "link", m_WebControl.object.locationURL
+
+TotalMsgSend = TotalMsgSend + 1
+ID_CMM = ID_CMM + 1
+
+If TotalMsgSend = 1 Then
+Status.Panels(1).Text = TotalMsgSend & " mensagem enviada!"
+Else
+Status.Panels(1).Text = TotalMsgSend & " mensagens enviadas!"
+End If
+Status.Panels(3).Text = "Postado com sucesso"
+Call CarregaLink
+End If
+
+If InStr(1, source.Text, "porque acabou") Then
+Call CarregaLink
+End If
+End If
+
+
+'####################################################################################
+If Respondendo = 1 Then
+
+If InStr(1, source.Text, "O texto desta mensagem foi usado há pouquíssimo tempo. Use outro texto na sua postagem") Then
+ID_Post = ID_Post * 10
+End If
+
+If InStr(1, source.Text, "Mensagem:") Then
+ID_Post = ID_Post + 1
+m_WebControl.object.Document.getelementbyid("orkutFrame").contentWindow.Document.getelementbyid("subject").Value = title.Text & " " & ID_Post
+m_WebControl.object.Document.getelementbyid("orkutFrame").contentWindow.Document.getelementbyid("messageBody").Value = resptitle.Text & " " & ID_Post
+m_WebControl.object.SetFocus
+Call EnviaResposta
+End If
+
+If InStr(1, source.Text, "responder") Then
+Call RespondeTopics
+End If
+
+If InStr(1, source.Text, "Digite o texto conforme mostrado na caixa a seguir:") Then
+Timer1.Enabled = False
+captcha.Show
+End If
+End If
+End If
+
+
+
+'####################################################################################
+'####################################################################################
+If InStr(1, source.Text, "A opção criar tópicos em comunidades está desativada temporariamente") Then
+Divulgando = 0
+Respondendo = 0
+Status.Panels(3).Text = "Erro ocorrido: A opção criar tópicos em comunidades está desativada temporariamente = LIMPE O HISTORICO"
+End If
+
+If InStr(1, source.Text, "Você está temporariamente impedido de executar esta ação. Tente novamente mais tarde") Then
+Divulgando = 0
+Respondendo = 0
+Status.Panels(3).Text = "Erro ocorrido: Você está temporariamente impedido de executar esta ação. Tente novamente mais tarde = LIMPE O HISTORICO"
+End If
+'If InStr(1, source.Text, "deseja participar desta comunidade") Then
+'Principal.m_WebControl.object.Document.getElementById("orkutFrame").contentWindow.Document.getElementById("f").submit
+'Else
+'If InStr(1, source.Text, "participar") Then
+'JoinCmm.Show
+'End If
+'End If
+
+If InStr(1, source.Text, "Sair") Then
+Command3.Visible = True
+Command5.Visible = False
+End If
+If InStr(1, m_WebControl.object.Document.documentelement.innerhtml, "Você saiu da sua conta.") Then
+m_WebControl.object.navigate "http://orkut.com.br"
+Command3.Visible = False
+Command5.Visible = True
+End If
+If InStr(1, m_WebControl.object.Document.documentelement.innerhtml, "Acesse com a sua") Then
+Command3.Visible = False
+Command5.Visible = True
+End If

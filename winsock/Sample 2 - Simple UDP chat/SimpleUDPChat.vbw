@@ -1,0 +1,4 @@
+Server = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Client = 50, 50, 863, 501, , 25, 25, 838, 476, C
+modSocketMaster = 0, 0, 0, 0, C
+CSocketMaster = 0, 0, 0, 0, C

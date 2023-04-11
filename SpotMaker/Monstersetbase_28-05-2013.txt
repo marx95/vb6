@@ -1,0 +1,56 @@
+// ####################### - Spot's feitos pelo software SpotMaker do MuNovus.net - ####################### \\
+1
+// - Mapa: Noria
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	29	3	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	3	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	3	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	3	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	3	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	3	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	3	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	3	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	3	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	3	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	3	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	3	0	33	33	33	33	1	7	// - Hunter - Pontual
+// - Total de 126
+
+// - Mapa: Stadium
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	29	6	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	6	0	33	33	33	33	1	7	// - Hunter - Pontual
+// - Total de 21
+
+// - Mapa: ChaosCastle 2
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	29	19	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	19	0	33	33	33	33	1	7	// - Hunter - Pontual
+// - Total de 21
+
+// - Mapa: Raklion
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	29	57	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	57	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	57	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	57	0	33	33	33	33	1	7	// - Hunter - Pontual
+	29	57	0	29	29	37	37	1	14	// - Hunter - Espalhado
+	29	57	0	33	33	33	33	1	7	// - Hunter - Pontual
+	32	57	0	29	29	37	37	1	14	// - Stone Golem - Espalhado
+	32	57	0	33	33	33	33	1	7	// - Stone Golem - Pontual
+// - Total de 84
+
+// - Mapa: Swamp of Calmness
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	32	56	0	29	29	37	37	1	14	// - Stone Golem - Espalhado
+	32	56	0	33	33	33	33	1	7	// - Stone Golem - Pontual
+	547	56	0	29	29	37	37	1	14	// - Julia - Espalhado
+	547	56	0	33	33	33	33	1	7	// - Julia - Pontual
+// - Total de 42
+
+// - Mapa: Kanturu Relics
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	547	38	0	29	29	37	37	1	14	// - Julia - Espalhado
+	547	38	0	33	33	33	33	1	7	// - Julia - Pontual
+end
+

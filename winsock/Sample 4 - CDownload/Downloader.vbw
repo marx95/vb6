@@ -1,0 +1,4 @@
+frmDownloader = 100, 100, 826, 519, , 75, 75, 801, 494, C
+modSocketMaster = 125, 125, 851, 544, C
+CSocketMaster = 25, 25, 751, 444, C
+CDownload = 50, 50, 776, 469, Z

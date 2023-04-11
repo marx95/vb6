@@ -1,0 +1,28 @@
+// ####################### - Spot's feitos pelo software SpotMaker do MuNovus.net - ####################### \\
+1
+// - Mapa: Dungeon
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	161	1	0	29	40	37	48	1	111	// - Illusion Kundun - Espalhado
+	161	1	0	33	44	33	44	1	56	// - Illusion Kundun - Pontual
+// - Total de 167
+
+// - Mapa: Devias
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	161	2	0	29	40	37	48	1	111	// - Illusion Kundun - Espalhado
+	161	2	0	33	44	33	44	1	56	// - Illusion Kundun - Pontual
+// - Total de 167
+
+// - Mapa: Elbeland
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	161	51	0	29	40	37	48	1	111	// - Illusion Kundun - Espalhado
+	161	51	0	33	44	33	44	1	56	// - Illusion Kundun - Pontual
+	161	51	0	29	40	37	48	1	22	// - Illusion Kundun - Espalhado
+	161	51	0	33	44	33	44	1	11	// - Illusion Kundun - Pontual
+// - Total de 200
+
+// - Mapa: LostTower
+//	MobID	Mapa	Tempo	CordX	CordY	CordX2	CordY2	Dir	Quant	Desc
+	161	4	0	29	40	37	48	1	22	// - Illusion Kundun - Espalhado
+	161	4	0	33	44	33	44	1	11	// - Illusion Kundun - Pontual
+end
+

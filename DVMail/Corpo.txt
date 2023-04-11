@@ -1,0 +1,62 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style>
+body {
+background-color: #FFFFFF;
+}
+.Paginas{
+border-radius: 5px;
+border: 1px solid #57bcff;
+color: #57bcff;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-variant: small-caps;
+letter-spacing: 1px;
+width: 100%;
+}
+.PagTable{
+border-radius: 5px;
+border: 1px solid #57bcff;
+color: #777777;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-variant: small-caps;
+letter-spacing: 1px;
+width: 650px;
+font-weight: 500;
+text-align: center;
+}
+</style>
+<div class="Paginas" align="center">
+<br />
+<table class="PagTable" align="center">
+<tr>
+  <td><div align="center"><b>&nbsp;Cadastre-se no TopF&aacute;cil e ganha v&aacute;rias vantagens: </b> </div></td>
+</tr>
+<tr>
+<td><p align="justify">O TopF&aacute;cil, trazendo resultados incriveis ao seu neg&oacute;cio. Servidores cadastrados hoje ganhando v&aacute;rios acessos d&iacute;arios a partir do TopF&aacute;cil. Aqui voc&ecirc; encontra as seguintes ferramentas:</p><ul>
+  <li>
+    <div align="left">Painel de controle r&aacute;pido e f&aacute;cil</div>
+  </li>
+  <li>
+    <div align="left">Visualizador de Clicks di&aacute;rio, semanal e mensal</div>
+  </li>
+  <li>
+    <div align="left">Visualizador de Votos di&aacute;rio, semanal e mensal</div>
+  </li>
+  <li>
+    <div align="left">Descri&ccedil;&atilde;o r&aacute;pida para listagem no ranking de servers</div>
+  </li>
+  <li>
+    <div align="left">Descri&ccedil;&atilde;o completa com HTML Liberado no perfil do server</div>
+  </li>
+  <li>
+    <div align="left">Todos os Sistemas do TopF&aacute;cil com carregamento via Ajax</div>
+  </li></ul>
+      <p align="center"><a href="http://anuncios.topfacil.net/?url=dvnovus"><strong>Clique e Cadastre-se no TopF&aacute;cil</strong></a>
+  </td>
+</tr>
+</table>
+<br />
+</div>
+
+
